@@ -1,0 +1,11 @@
+pyspark==3.5.1
+pandas>=2.0,<2.3
+pyarrow
+openpyxl
+pyreadstat
+numpy
+matplotlib
+seaborn
+jupyterlab
+notebook
+findspark
